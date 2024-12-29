@@ -1,0 +1,8 @@
+.bgForm{
+    background-image: url('../../assets/bg-shadow.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(223, 218, 218);
+    opacity: 0.8;
+}

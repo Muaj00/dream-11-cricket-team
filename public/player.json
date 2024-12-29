@@ -1,0 +1,104 @@
+{
+    "players": [
+        {
+            "playerId": 1,
+            "name": "Virat Kohli",
+            "country": "India",
+            "image": "https://staticg.sportskeeda.com/editor/2024/05/d973a-17150616187538-1920.jpg",
+            "role": "Batsman",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm medium",
+            "biddingPrice": 2000000
+        },
+        {
+            "playerId": 2,
+            "name": "Joe Root",
+            "country": "England",
+            "image": "https://e0.365dm.com/21/08/1600x900/skysports-joe-root-england_5467985.jpg?20210804152328",
+            "role": "Batsman",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm offbreak",
+            "biddingPrice": 1800000
+        },
+        {
+            "playerId": 3,
+            "name": "Mitchell Starc",
+            "country": "Australia",
+            "image": "https://c.ndtvimg.com/2024-06/l347dt08_mitchell-starc-afp_625x300_24_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+            "role": "Bowler",
+            "battingType": "Left-hand bat",
+            "bowlingType": "Left-arm fast",
+            "biddingPrice": 2200000
+        },
+        {
+            "playerId": 4,
+            "name": "Rashid Khan",
+            "country": "Afghanistan",
+            "image": "https://c.ndtvimg.com/2023-08/a9rtrp18_rashid-khan-806_625x300_24_August_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+            "role": "Bowler",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm legbreak",
+            "biddingPrice": 1900000
+        },
+        {
+            "playerId": 5,
+            "name": "Ben Stokes",
+            "country": "England",
+            "image": "https://e0.365dm.com/22/06/2048x1152/skysports-pa-ben-stokes-england_5805019.jpg?20220614201751",
+            "role": "All-Rounder",
+            "battingType": "Left-hand bat",
+            "bowlingType": "Right-arm fast-medium",
+            "biddingPrice": 2500000
+        },
+        {
+            "playerId": 6,
+            "name": "Kane Williamson",
+            "country": "New Zealand",
+            "image": "https://static.independent.co.uk/2021/10/14/17/b833e2d44033c54c51169fe6f56fbcacY29udGVudHNlYXJjaGFwaSwxNjM0MzE0MTM5-2.60265731.jpg?quality=75&width=1200&auto=webp",
+            "role": "Batsman",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm offbreak",
+            "biddingPrice": 1700000
+        },
+        {
+            "playerId": 7,
+            "name": "MaxWell",
+            "country": "Australia",
+            "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTBasKFDGvi7QHlFNIGAAiw4Kzob_C9PUFzXSrtarXFXXseUGdL8TcmDIlXZ-81JIUV8B8kLWNcMNfJgIw",
+            "role": "Bowler",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm spin",
+            "biddingPrice": 2100000
+        },
+        {
+            "playerId": 8,
+            "name": "AB de Villiers",
+            "country": "South Africa",
+            "image": "https://media.licdn.com/dms/image/v2/D5612AQEZ6tAVhVnU4w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685526334789?e=2147483647&v=beta&t=aBUSRANp_z7a4AnrN9PztxekNqugLjmj0DDDWNAZ1SE",
+            "role": "Batsman",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm medium",
+            "biddingPrice": 2300000
+        },
+        {
+            "playerId": 9,
+            "name": "Pat Cummins",
+            "country": "Australia",
+            "image": "https://cdn.shopify.com/s/files/1/0278/4565/6649/files/WhatsApp_Image_2024-05-31_at_03.21.35.jpg?v=1717105956",
+            "role": "All-Rounder",
+            "battingType": "Right-hand bat",
+            "bowlingType": "Right-arm fast",
+            "biddingPrice": 2400000
+        },
+        {
+            "playerId": 10,
+            "name": "Shakib Al Hasan",
+            "country": "Bangladesh",
+            "image": "https://static.toiimg.com/thumb/msid-114962539,width-1280,height-720,resizemode-4/114962539.jpg",
+            "role": "All-Rounder",
+            "battingType": "Left-hand bat",
+            "bowlingType": "Left-arm orthodox spin",
+            "biddingPrice": 2000000
+        }
+    ]
+}

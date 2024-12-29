@@ -1,0 +1,30 @@
+.bg-image{
+    background-image: url('../../assets/bg-shadow.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    /* border: 1px dashed rgb(181, 174, 174);
+    left: 0;
+    right: 0;
+    top: 131px;
+    bottom: 4462px; */
+    /* margin-bottom: 74px; */
+}
+
+.color{
+    color: #E7FE29;
+}
+.border-color{
+    border-color: #E7FE29;
+}
+
+.active{
+    background-color:#E7FE29;
+    color: black;
+    font-weight: bold;
+}
+
+.footerBg{
+    background-color: #06091A;
+}
